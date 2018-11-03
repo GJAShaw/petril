@@ -1,0 +1,6 @@
+# .gitignore
+# project: petril
+
+petril
+petril.o
+
