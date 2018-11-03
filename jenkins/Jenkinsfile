@@ -42,7 +42,7 @@ pipeline {
         stage('deliver') {
             steps {
                 sh '''
-                    cp ./petril /tmp
+                    cp ./petril /home/greg/staging/petril
                 '''
             }
         }
